@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 <!--
-**Bojne/bojne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**Bojne/bojne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🔭 I’m currently working on 
+  - [inspiration.tw （靈感河）](https://inspration.tw) A blog for creative science learning 
+  - [bojne.com](https://bojne.com) My personal website
+  
+### 🌱 I’m currently learning 
+
+- Front End Development 
+- CSS Basics 
+- Data Structure and Algorithm 
+
+
+### 💬 Ask me about 
+
+- Notion 
