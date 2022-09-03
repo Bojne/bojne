@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Yuegh Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=bojne)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
 ### 🔭 Currently exploring & learning! 
 
-[![Yuegh Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=bojne)](https://github.com/anuraghazra/github-readme-stats)
